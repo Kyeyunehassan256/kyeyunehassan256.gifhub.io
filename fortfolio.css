@@ -1,0 +1,55 @@
+
+header img{
+    height: 80px;
+}
+body{ 
+    height: 125vh;
+    background-image: url('https://down-yuantu.pngtree.com/back_our/bg/20190820/bg/2e65ef94434b6.png?e=1695229171&st=OGIxNzc0OTM5ZTdlMDBiNmU1YzRjZDJiMDhjMGQ1NmY&n=%E2%80%94Pngtree%E2%80%94dark+abstract+background+with+dark_1155641.png');
+    background-size: cover;
+    font-family: sans-serif;
+}
+main{
+    padding: 50px;
+    margin-top: 120px;
+    text-align: center;
+    color:gold;
+    font-size: 30px;
+}
+header{
+    background-color: rgb(113, 113, 129);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+header * {
+    display: inline;
+}
+header ul{
+    margin: 20px;
+    word-spacing: 50px;
+   
+}
+header ul a{
+    color: aliceblue;
+    text-decoration: none;
+}
+header ul a:hover{
+    color: yellow;
+}
+h2 img{
+        height: 50px;
+    }
+img{ 
+    height: 70px;
+    width: 70px;
+    border-radius: 20%;
+}
+ul img{
+    height: 30px;
+    width:30px;
+
+}
